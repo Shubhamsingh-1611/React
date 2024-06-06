@@ -1,0 +1,5 @@
+why to learn react
+1)make easy to manages and build complex frontent
+
+why react was created?
+1)fantom message of the facebook;
